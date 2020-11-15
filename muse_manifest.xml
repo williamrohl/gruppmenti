@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605470097475">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605470251768">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3995998748" ref="phone>index"/>
+      <file name="index.css" crc="4013367995" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="303231230" seo="true" mt="1605470091602" redirect="true"/>
+    <file name="index.html" crc="3863899062" seo="true" mt="1605470242856" redirect="true"/>
   </folder>
   <folder name="images">
     <file name="grupp-6-favicon.ico" crc="494403687" ref="phone>index"/>
@@ -25,7 +25,7 @@
     <file name="asset 7@4x.png" crc="126326671" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 6@4x-crop-u327.png" crc="4211809119" seo="true" ref="phone>index">
+    <file name="asset 6@4x-crop-u327.png" crc="4238640256" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 5@4x.png" crc="4247094340" seo="true" ref="phone>index:index">
@@ -46,7 +46,6 @@
     </file>
     <file name="asset 11@4x.png" crc="3986397722" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 6@4x-crop-u141.png" crc="4146587996" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -57,7 +56,7 @@
     <file name="asset 14@4x.png" crc="437207474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 10@4x.png" crc="3288486" seo="true" ref="index">
+    <file name="asset 10@4x.png" crc="3288486" seo="true" ref="index:phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
