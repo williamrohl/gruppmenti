@@ -1,34 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605469949474">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605470097475">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4153004545" ref="phone>index"/>
+      <file name="index.css" crc="3995998748" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3777868069" seo="true" mt="1605469911691" redirect="true"/>
+    <file name="index.html" crc="303231230" seo="true" mt="1605470091602" redirect="true"/>
   </folder>
   <folder name="images">
     <file name="grupp-6-favicon.ico" crc="494403687" ref="phone>index"/>
     <file name="asset 17@4x.png" crc="3908215790" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 12@4x.png" crc="4156228359" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 1@4x.png" crc="4146666003" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 9@4x.png" crc="3999931089" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 8@4x.png" crc="3978748004" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 7@4x.png" crc="126326671" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 6@4x-crop-u327.png" crc="4211809119" seo="true" ref="phone>index">
@@ -36,27 +30,21 @@
     </file>
     <file name="asset 5@4x.png" crc="4247094340" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 4@4x.png" crc="3929236536" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 16@4x.png" crc="4236354365" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 15@4x.png" crc="84641388" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 13@4x.png" crc="3775338455" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="asset 11@4x.png" crc="3986397722" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
