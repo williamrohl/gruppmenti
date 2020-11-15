@@ -5,6 +5,7 @@
     <lastmod>2020-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gruppmenti.com/phone/index.html"/>
     <image:image>
       <image:loc>http://gruppmenti.com/images/asset%209.png</image:loc>
     </image:image>
