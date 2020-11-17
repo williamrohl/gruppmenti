@@ -40,9 +40,6 @@
       <image:loc>http://gruppmenti.com/images/asset%2013@4x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://gruppmenti.com/images/asset%2011@4x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://gruppmenti.com/images/asset%206@4x-crop-u141.png</image:loc>
     </image:image>
     <image:image>
@@ -53,6 +50,76 @@
     </image:image>
     <image:image>
       <image:loc>http://gruppmenti.com/images/asset%2010@4x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://gruppmenti.com/uttag.html</loc>
+    <lastmod>2020-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://gruppmenti.com/phone/uttag.html"/>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2017@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2012@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%201@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%209@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%208@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%207@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%205@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%204@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2016@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2015@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2013@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%203@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2014@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%2010@4x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/inklistrad%20bild%201920x1080-crop-u771.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/tazer%20box%20%C3%A5pen-crop-u780.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/collars.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/menti%20print%200151805x653.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/menti%20print%200151-crop-u847.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/ooh%203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://gruppmenti.com/images/asset%206@4x-crop-u686.png</image:loc>
     </image:image>
   </url>
 </urlset>
