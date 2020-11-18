@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605625129422">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605715173802">
   <folder name="fonts">
     <file name="menti-regular.woff" crc="4244877856"/>
     <file name="menti-regular.eot" crc="3947312388"/>
@@ -14,9 +14,8 @@
     <file name="uttag.html" crc="53750213" seo="true" mt="1605625036376" redirect="true"/>
   </folder>
   <folder name="images">
-    <file name="grupp-6-favicon.ico" crc="494403687" ref="phone>index"/>
+    <file name="grupp-6-favicon.ico" crc="4106469425" ref="phone>index:index"/>
     <file name="asset 17@4x.png" crc="3908215790" seo="true" ref="phone>index:index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
@@ -28,24 +27,20 @@
     </file>
     <file name="asset 1@4x.png" crc="4146666003" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 9@4x.png" crc="3999931089" seo="true" ref="phone>index:index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 8@4x.png" crc="3978748004" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 7@4x.png" crc="126326671" seo="true" ref="phone>index:index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
@@ -55,31 +50,25 @@
     </file>
     <file name="asset 5@4x.png" crc="4247094340" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 4@4x.png" crc="3929236536" seo="true" ref="phone>index:index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 16@4x.png" crc="4236354365" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 15@4x.png" crc="84641388" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 13@4x.png" crc="3775338455" seo="true" ref="phone>index:index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
@@ -97,12 +86,10 @@
     </file>
     <file name="asset 14@4x.png" crc="437207474" seo="true" ref="index:phone>index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 10@4x.png" crc="3288486" seo="true" ref="index:phone>index:phone>uttag:uttag">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
@@ -164,6 +151,6 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:phone>index:phone>uttag:uttag"/>
     <file name="require.js" crc="7928878" ref="index:phone>index:phone>uttag:uttag"/>
   </folder>
-  <file name="index.html" crc="4069500447" seo="true" mt="1605625118900" redirect="true"/>
+  <file name="index.html" crc="73210744" seo="true" mt="1605715160529" redirect="true"/>
   <file name="uttag.html" crc="3932354759" seo="true" mt="1605624805529" redirect="true"/>
 </manifest>
