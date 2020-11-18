@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605715173802">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605715852314">
   <folder name="fonts">
     <file name="menti-regular.woff" crc="4244877856"/>
     <file name="menti-regular.eot" crc="3947312388"/>
@@ -140,7 +140,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="259575521" ref="index"/>
+    <file name="index.css" crc="3834826848" ref="index"/>
     <file name="uttag.css" crc="443158674" ref="uttag"/>
   </folder>
   <folder name="scripts">
@@ -151,6 +151,6 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:phone>index:phone>uttag:uttag"/>
     <file name="require.js" crc="7928878" ref="index:phone>index:phone>uttag:uttag"/>
   </folder>
-  <file name="index.html" crc="73210744" seo="true" mt="1605715160529" redirect="true"/>
+  <file name="index.html" crc="3898269270" seo="true" mt="1605715846873" redirect="true"/>
   <file name="uttag.html" crc="3932354759" seo="true" mt="1605624805529" redirect="true"/>
 </manifest>
