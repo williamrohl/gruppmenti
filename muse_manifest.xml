@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605718007271">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gruppmenti.com" resolutions="1x" timestamp="1605718667240">
   <folder name="fonts">
     <file name="menti-regular.woff" crc="4244877856"/>
     <file name="menti-regular.eot" crc="3947312388"/>
@@ -7,14 +7,14 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3863587008" ref="phone>index"/>
+      <file name="index.css" crc="4038789477" ref="phone>index"/>
       <file name="uttag.css" crc="463087019" ref="phone>uttag"/>
     </folder>
-    <file name="index.html" crc="4016713902" seo="true" mt="1605625112688" redirect="true"/>
+    <file name="index.html" crc="440074719" seo="true" mt="1605718663151" redirect="true"/>
     <file name="uttag.html" crc="53750213" seo="true" mt="1605625036376" redirect="true"/>
   </folder>
   <folder name="images">
-    <file name="grupp-6-favicon.ico" crc="4106469425" ref="phone>index:index"/>
+    <file name="grupp-6-favicon.ico" crc="494403687" ref="phone>index:index"/>
     <file name="asset 17@4x.png" crc="3908215790" seo="true" ref="phone>index:index:phone>uttag:uttag">
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
@@ -54,6 +54,7 @@
       <caption webpage="uttag" alt=""/>
     </file>
     <file name="asset 4@4x.png" crc="3929236536" seo="true" ref="phone>index:index:phone>uttag:uttag">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="uttag" alt=""/>
       <caption webpage="uttag" alt=""/>
